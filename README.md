@@ -4,7 +4,13 @@
 
 一个喜欢新鲜玩意的前端独立开发者
 
-- 🌱 I’m currently learning ...
+我的QQ：630020826  
+
+我的微信 18712505420
+
+
+
+- 🌱  我最近在开发的项目：微信小程序 布丁师傅，一个本地自由职业信息平台
 
 <!--
 **iwh718/iwh718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
