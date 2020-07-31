@@ -8,9 +8,9 @@
 
 我的微信 18712505420
 
+- 🔭 I’m currently working on 秋果公司。
 
-
-- 🌱  我最近在开发的项目：微信小程序 布丁师傅，一个本地自由职业信息平台
+- 🌱  我最近在开发的项目：微信小程序 布丁师傅，一个自由职业信息平台，支持在线IM。
 
 <!--
 **iwh718/iwh718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
