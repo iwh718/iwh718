@@ -6,7 +6,7 @@
 
 我的QQ：630020826  
 
-我的微信 18712505420
+我的微信 iwenhua1314
 
 我的博客 [iwh718](http://blog.borebooks.top)
 
