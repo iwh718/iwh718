@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on 秋果公司。
 
-- 🌱  我最近在开发的项目：微信小程序 布丁师傅，一个自由职业信息平台，支持在线IM。
+- 🌱  我最近在开发的项目：AppStore:[BiliFans-随时随地关注UP粉丝](https://apps.apple.com/cn/app/bilifans-%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E5%85%B3%E6%B3%A8up%E7%B2%89%E4%B8%9D/id1532896670)
 
 <!--
 **iwh718/iwh718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
