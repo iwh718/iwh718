@@ -2,11 +2,11 @@
 
 # 自我简介 
 
-一个喜欢前端的独立开发者
+一个喜欢JavaScript的开发者
 
-我的QQ 2868579699  
+我的QQ 630020826 
 
-我的微信 SunflowerSeeYou
+我的微信 muzhi401
 
 我的博客 [冬](http://blog.borebooks.top)
 
