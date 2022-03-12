@@ -16,6 +16,8 @@
 
 - 🌱  我最近在开发的项目：AppStore:[Mini化学元素](https://apps.apple.com/cn/app/mini%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0/id1534560793)
 
+- 🌱  我最近在开发的项目：微信小程序：小葵公文写作
+
 <!--
 **iwh718/iwh718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
