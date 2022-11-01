@@ -6,7 +6,7 @@
 
 
 
-工作github winter_986@qq.com
+工作github前往 winter_986@qq.com
 
 我的博客 [冬](http://blog.borebooks.top)
 
