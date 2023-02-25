@@ -1,34 +1,43 @@
-### 哈罗 欢迎来到我的Github ！ 👋
-
-# 自我简介 
-
-一个喜欢JavaScript的开发者
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=iwh718.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors) 
+![Blog](https://stats.justsong.cn/api/website/?url=http://blog.wa-jjr.top&style=flat&logo=github)
 
-工作github前往 winter_986@qq.com
+- 👋 你好鸭，这里是 @yfd的仓库首页。
+- 👀 我是一名JavaScript全栈爱好者。
+- 🌱 当前在学习Web3相关
+- 📫 我的邮箱 huawei3xdong@gmail.com
+- iOS独立开发者&SOHO
+- new Github  [winterOmii](https://github.com/iwh718)
 
-我的博客 [冬](http://blog.borebooks.top)
 
-- 🔭 I’m currently working on Free!
 
-- 🌱  我最近在开发的项目：AppStore:[BiliFans-随时随地关注UP粉丝](https://apps.apple.com/cn/app/bilifans-%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E5%85%B3%E6%B3%A8up%E7%B2%89%E4%B8%9D/id1532896670)
 
-- 🌱  我最近在开发的项目：AppStore:[Mini化学元素](https://apps.apple.com/cn/app/mini%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0/id1534560793)
 
-- 🌱  我最近在开发的项目：web3 ETH 钱包 BeaverWallet（支持walletconnectV2协议）
+![yfd](https://stats.justsong.cn/api/csdn?id=u010913414)
 
-<!--
-**iwh718/iwh718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block;width: 50%;">
+		<div style="display: inline-block">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwh718&langs_count=6&layout=compact" />
+		</div>
+		<br>
+		<div>
+			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwh718&theme=solarized-light&hide_border=false" />
+		</div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+
+
+
+
+
+
+
+<!---
+winterOmii/winterOmii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!--![Snake animation](https://github.com/iwh718/iwh718/blob/output/github-contribution-grid-snake.svg)-->
