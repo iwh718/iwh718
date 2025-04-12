@@ -6,9 +6,9 @@
 - 👋 你好鸭，这里是 @iwh718的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
 - 🌱 当前在学习Web3相关
-- 📫 我的邮箱 huawei3xdong@gmail.com
+- 📫 我的邮箱 2winter.dev@gmail.com
 - iOS独立开发者&SOHO
-- new Github  [winterOmii](https://github.com/iwh718)
+- new Github  [2winter](https://github.com/iwh718)
 
 
 
