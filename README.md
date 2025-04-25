@@ -6,9 +6,17 @@
 - 👋 你好鸭，这里是 @iwh718的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
 - 🌱 当前在学习Web3相关
-- 📫 我的邮箱 2winter.dev@gmail.com
-- iOS独立开发者&SOHO
 - new Github [2winter](https://github.com/2winter-dev)
+
+- 👀技術棧:JavaScript,React,ReactNative,Expo,NextJS,NodeJS，PHP，SwiftUI，Kotlin
+- 🌱 iOS独立开发者
+- Blog  [2winter](https://2winter.com)
+- AI Seek [AI工具集匯集導航大全](https://ai-seek.work)
+- APP系列 [APP集合](https://airbook.yusihk.com)
+- AppStore [APP集合](https://apps.apple.com/tw/developer/%E5%86%AC%E5%86%AC-%E6%9D%8E/id1532168808?see-all=i-phonei-pad-apps)
+- PlayStore [APP集合](https://play.google.com/store/apps/developer?id=2winter)
+- Chrome擴展 [小紅薯採集器](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E8%96%AF%E5%95%86%E5%93%81%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7/pekcgkelcadlhndhghlaeejfeeiiaakc?hl=zh-CN)
+- Spinner [Shopify-wordpress商品同步](https://spinner.yusihk.com)
 
 
 
